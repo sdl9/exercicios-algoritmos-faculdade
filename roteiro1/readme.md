@@ -16,9 +16,9 @@ Ao final, o algoritmo deve imprimir a soma e a média dos valores lidos.
 Ex.2 (ExParcCelular.java)
 Você foi a uma loja de celulares e está avaliando as formas de pagamento. Considere a possibilidade de parcelar o valor de um celular novo. 
 
-Qual o vlaor que seria pago a cada mês?
+Qual o valor que seria pago a cada mês?
 
-Construa então um algoritmo que solicita o vlaor total do celular e em quantas vezes o valor será pago (n.º de parcelas).
+Construa então um algoritmo que solicita o valor total do celular e em quantas vezes o valor será pago (n.º de parcelas).
 
 O algoritmo imprime então o valor das parcelas.
 
