@@ -1,4 +1,5 @@
 package roteiro1;
+
 import java.util.Scanner;
 
 public class ExChuva {
